@@ -6,5 +6,6 @@ h2 {
 }
 
 p {
-  color="#4d4d4d";
+  color: "#4d4d4d";
+  font-family: Arial,sans-serif;
 }
