@@ -16,6 +16,6 @@ button {
   font-family: "Courier New"
 }
 
-linkbutton {
+.linkbutton a {
   font-family: "Courier New"
 }
